@@ -1,0 +1,11 @@
+@counter-style fruits{
+    system: cyclic; 
+    symbols: 🍏 🥭 🍓 🍏;
+    suffix:" " ;
+
+}
+
+ul{
+    list-style-type: fruits ;
+
+}
